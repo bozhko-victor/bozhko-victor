@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am a junior quality control automation engineer. 
 
 <!--
 **bozhko-victor/bozhko-victor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
