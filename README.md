@@ -23,4 +23,3 @@ ___
 
 ___
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bozhko-victor&theme=vue&show_icons=true&locale=en" alt="bozhko-victor" /></p>
