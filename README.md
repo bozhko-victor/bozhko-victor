@@ -23,4 +23,4 @@ ___
 
 ___
 
-![gif](./buben.gif)
+![gif](./tired_face_animated_sticker.gif)
