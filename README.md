@@ -24,3 +24,9 @@ ___
 ___
 
 <!-- ![gif](./tired_face_animated_sticker.gif) -->
+
+<!--
+https://www.youtube.com/watch?v=FFBTGdEMrQ4&t=17s Видеообзор Markdown 
+http://dkhramov.dp.ua/Comp.RMarkdown#_11 Краткое руководство
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet официальная страница
+-->
