@@ -31,7 +31,12 @@ ___
 
 ---
 
-<!-- ![gif](./tired_face_animated_sticker.gif) -->
+
+
+
+<!-- ![gif](./tired_face_animated_sticker.gif)
+https://github.com/ikatyang/emoji-cheat-sheet  
+-->
 
 <!--
 https://www.youtube.com/watch?v=FFBTGdEMrQ4&t=17s Видеообзор Markdown 
