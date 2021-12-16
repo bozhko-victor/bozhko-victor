@@ -1,4 +1,10 @@
-### Hi there 👋 I am a junior quality control automation engineer. 
+### Hi there! 👋 
+
+
+<p align="center">
+  <img title="|Customized by bozhko_victor|" src="https://readme-typing-svg.herokuapp.com?color=00FF00&font=Knewave&size=35&center=true&vCenter=true&lines=I'm+a+junior+QA+engineer">
+</p>
+
 
 <!--
 **bozhko-victor/bozhko-victor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ___
-<h3 align="left">My stack:</h3>
+<h3 align="left">My current stack:</h3>
 
 | Java | Gradle | Junit5 | Selenide | GitHub | Jenkins | Selenoid | Allure Report | Allure TestOps | Jira |
 |:----:|:----:|:------:|:------:|:------:|:----:|:----:|:------:|:------:|:------:|
