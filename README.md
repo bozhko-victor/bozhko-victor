@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img title="|Customized by bozhko_victor|" src="https://readme-typing-svg.herokuapp.com?color=00FF00&font=Knewave&size=35&center=true&vCenter=true&lines=I'm+a+junior+QA+engineer">
+  <img title="|Customized by bozhko_victor|" src="https://readme-typing-svg.herokuapp.com?color=4040FF&font=Knewave&size=35&center=true&vCenter=true&lines=I'm+a+junior+QA+engineer">
 </p>
 
 
