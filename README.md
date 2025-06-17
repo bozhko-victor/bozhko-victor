@@ -32,7 +32,7 @@ ___
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://t.me/bozhko_victor" target="blank"><img align="center" src="https://telegram.org/img/t_logo.svg?1" alt="@bozhko_victor" height="30" width="40" /></a>
+<a href="https://t.me/vivamanter" target="blank"><img align="center" src="https://telegram.org/img/t_logo.svg?1" alt="@bozhko_victor" height="30" width="40" /></a>
 </p>
 
 ---
